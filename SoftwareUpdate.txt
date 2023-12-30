@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update Docs language dropdown height (#6927)
